@@ -17,7 +17,6 @@ Saludos!
 
 ![Foto](foto.jpg)
 
-/*
- *Edit: creo que la foto quedo un poco grande.	
- */
+// Creo que la foto quedo un poco grande.	
+
 	
